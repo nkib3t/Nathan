@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nathanbiwot
+- 👋 Hi, I’m @Nathankibet 
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on creating systems 
-- 📫 How to reach me via email..biwotnathan71@gmail.com 
+- 📫 How to reach me via biwotnathan71@gmail.com 
 
 <!---
 Nathankibet/Nathankibet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
