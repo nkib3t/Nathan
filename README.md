@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nathan Kibet
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on creating systems 
+- 👋 Hi, I’m Nathan Kibet.
+- 👀 I’m interested in software development and cyber security.
+- 🌱 I’m currently learning software engineering and cyber security. 
+- 💞️ I’m looking to collaborate on developing and protecting systems. 
 - 📫 How to reach at biwotnathan71@gmail.com 
 
 <!---
